@@ -20,4 +20,3 @@ I've been trying to improve myself in programming (PHP, JS) through the creation
 <code><img title="CSS3" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/></code>
 <code><img title="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/></code>
 <code><img title="SQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/></code>
-<code><img title="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/></code>
