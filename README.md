@@ -14,7 +14,6 @@ I've been trying to improve myself in programming (PHP, JS) through the creation
 
 <code><img title="PHP" width="26px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"/></code>
 <code><img title="CodeIgniter 4" width="26px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"/></code>
-<code><img title="Laravel" width="26px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"/></code>
 <code><img title="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/></code>
 <code><img title="HTML5" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/></code>
 <code><img title="CSS3" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/></code>
