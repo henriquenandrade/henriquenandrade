@@ -17,5 +17,3 @@ I've been trying to improve myself in programming (PHP, JS) through the creation
 <code><img title="CSS3" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/></code>
 <code><img title="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/></code>
 <code><img title="SQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/></code>
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=22yerp2zqkkedwclotyo3upfy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22yerp2zqkkedwclotyo3upfy&cover_image=true&theme=default&show_offline=false&background_color=0d0d0d&interchange=true&bar_color_cover=false)]]
